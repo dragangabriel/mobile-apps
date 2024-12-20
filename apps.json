@@ -1,0 +1,32 @@
+[
+    {
+        "id": "tenniscareer",
+        "name": "Tennis Career - Sim Game",
+        "showAndroid": true,
+        "showIOS": true,
+        "imageURL": "tennis-career.jpeg",
+        "androidURL": "https://play.google.com/store/apps/details?id=com.tenniscareer",
+        "iosURL": "https://apps.apple.com/app/tennis-career-sim-game/id6476631571",
+        "logging": true
+    },
+    {
+        "id": "geoquiz",
+        "name": "World Geography Quiz Game",
+        "showAndroid": true,
+        "showIOS": true,
+        "imageURL": "geoquiz.jpeg",
+        "androidURL": "https://play.google.com/store/apps/details?id=com.stacktechgeoquiz",
+        "iosURL": "https://apps.apple.com/us/app/geoquiz-geography-quiz-game/id1551150953",
+        "logging": true
+    },
+    {
+        "id": "wordquest",
+        "name": "Word Quest - Pics and Words",
+        "showAndroid": true,
+        "showIOS": true,
+        "imageURL": "word-quest.jpeg",
+        "androidURL": "https://play.google.com/store/apps/details?id=com.stacktechword",
+        "iosURL": "https://apps.apple.com/us/app/word-quest-pics-and-words/id1552262122",
+        "logging": true
+    }
+]
