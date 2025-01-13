@@ -28,5 +28,15 @@
         "androidURL": "https://play.google.com/store/apps/details?id=com.stacktechword",
         "iosURL": "https://apps.apple.com/us/app/word-quest-pics-and-words/id1552262122",
         "logging": true
+    },
+    {
+        "id": "memorymatrixmatch",
+        "name": "Memory Matrix Match",
+        "showAndroid": true,
+        "showIOS": false,
+        "imageURL": "memory-matrix-match.png",
+        "androidURL": "https://play.google.com/store/apps/details?id=com.memorymatrixmatch2",
+        "iosURL": "https://apps.apple.com/us/app/memory-matrix-match/id1352805008",
+        "logging": true
     }
 ]
