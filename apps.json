@@ -33,7 +33,7 @@
         "id": "memorymatrixmatch",
         "name": "Memory Matrix Match",
         "showAndroid": true,
-        "showIOS": false,
+        "showIOS": true,
         "imageURL": "memory-matrix-match.png",
         "androidURL": "https://play.google.com/store/apps/details?id=com.memorymatrixmatch2",
         "iosURL": "https://apps.apple.com/us/app/memory-matrix-match/id1352805008",
